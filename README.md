@@ -1,2 +1,3 @@
 # react-rxjs-pokedex
-Simple Pokédex using React RxJS and TypeScript
+
+Simple Pokédex built with React RxJS and TypeScript.
